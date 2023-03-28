@@ -1,0 +1,9 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.3.1"
+  name = "mar28test1"
+  org = "lakshanschoreo"
+  version = "0.1.0"
+
